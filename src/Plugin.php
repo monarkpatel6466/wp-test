@@ -1,6 +1,6 @@
 <?php
 
-namespace BjornJohansen\WPPreCommitHook;
+namespace NitishKaila\WPTest;
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
