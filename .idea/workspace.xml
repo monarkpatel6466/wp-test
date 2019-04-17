@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1c2bef-e406-4748-8972-459a0f0a68f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpcs.ruleset.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,13 +40,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
+            <state relative-caret-position="296">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpcs.ruleset.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -68,12 +77,12 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/vendor/bjornjohansen/wp-pre-commit-hook/src/pre-commit" />
         <option value="$PROJECT_DIR$/vendor/bjornjohansen/wp-pre-commit-hook/composer.json" />
-        <option value="$PROJECT_DIR$/phpcs.ruleset.xml" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../local_package/src/Plugin.php" />
         <option value="$PROJECT_DIR$/../local_package/composer.json" />
         <option value="$PROJECT_DIR$/../local_package/src/pre-commit" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/phpcs.ruleset.xml" />
       </list>
     </option>
   </component>
@@ -107,6 +116,11 @@
             <path>
               <item name="wp-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="wp-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wp-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wp-test" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,12 +166,12 @@
       <workItem from="1555401071654" duration="11617000" />
       <workItem from="1555478243488" duration="8909000" />
       <workItem from="1555500779496" duration="11000" />
-      <workItem from="1555501451441" duration="1569000" />
+      <workItem from="1555501451441" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22106000" />
+    <option name="totallyTimeSpent" value="22652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1004" extended-state="6" />
@@ -176,7 +190,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25942856" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2582857" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,15 +238,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/automattic/vipwpcs/.phpcs.xml.dist" />
-    <entry file="file://$PROJECT_DIR$/phpcs.ruleset.xml" />
     <entry file="file://$PROJECT_DIR$/vendor/bjornjohansen/wp-pre-commit-hook/composer.json" />
-    <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../local_package/src/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-642">
@@ -254,6 +260,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpcs.ruleset.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
