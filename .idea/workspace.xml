@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1c2bef-e406-4748-8972-459a0f0a68f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="449">
+              <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -58,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+              <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
               <folding>
                 <element signature="e#7#1141#0#PHP" expanded="true" />
               </folding>
@@ -91,9 +92,9 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../local_package/src/Plugin.php" />
         <option value="$PROJECT_DIR$/../local_package/composer.json" />
-        <option value="$PROJECT_DIR$/../local_package/src/pre-commit" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/phpcs.ruleset.xml" />
+        <option value="$PROJECT_DIR$/../local_package/src/pre-commit" />
         <option value="$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php" />
       </list>
     </option>
@@ -191,12 +192,12 @@
       <workItem from="1555401071654" duration="11617000" />
       <workItem from="1555478243488" duration="8909000" />
       <workItem from="1555500779496" duration="11000" />
-      <workItem from="1555501451441" duration="2617000" />
+      <workItem from="1555501451441" duration="2915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23154000" />
+    <option name="totallyTimeSpent" value="23452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1004" extended-state="6" />
@@ -288,13 +289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpcs.ruleset.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -302,10 +296,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../local_package/src/pre-commit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
           <folding>
             <element signature="e#7#1141#0#PHP" expanded="true" />
           </folding>
