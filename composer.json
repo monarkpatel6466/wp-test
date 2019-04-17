@@ -1,5 +1,0 @@
-{
-    "require-dev": {
-        "bjornjohansen/wp-pre-commit-hook": "^0.3.0"
-    }
-}
