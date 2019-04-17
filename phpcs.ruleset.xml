@@ -11,11 +11,6 @@
     <arg value="s"/>
 
     <!-- Load WordPress Coding standards -->
-    <rule ref="WordPress"/>
-
-    <!-- Customize -->
-    <rule ref="WordPress">
-        <exclude name="Generic.WhiteSpace.DisallowSpaceIndent.SpacesUsed" />
-    </rule>
+    <rule ref="WordpressVIPMinimum"/>
 
 </ruleset>
