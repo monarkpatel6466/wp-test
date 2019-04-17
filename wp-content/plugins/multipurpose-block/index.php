@@ -64,7 +64,7 @@ function multipurpose_block_editor_assets()
     ));
     $attr = "abd";
     ?>
-    <a id="abc" class="<?php echo $attr; ?>">abc</a>
+    <a class="<?php echo $attr; ?>">abc</a>
 
 <?php
 }
