@@ -62,6 +62,10 @@ function multipurpose_block_editor_assets()
         'editor_style' => 'multipurpose_block_editor_css',
         'style' => 'multipurpose_block_frontend_css'
     ));
+    $attr = "abd";
+    ?>
+    <a class="<?php echo $attr; ?>">abc</a>
+
 
 }
 
