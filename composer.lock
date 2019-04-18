@@ -123,7 +123,7 @@
             "dist": {
                 "type": "path",
                 "url": "../local_package",
-                "reference": "9b3f6342fbc02d9fbeace755164b5b6bb7a01307",
+                "reference": "78b759e59d8fe7961eb08f8803de19d24b088c6f",
                 "shasum": null
             },
             "require": {
@@ -133,7 +133,7 @@
                 "phpcompatibility/phpcompatibility-wp": "*",
                 "wp-coding-standards/wpcs": "1.*"
             },
-            "type": "composer-plugin",
+            "type": "composer-script",
             "extra": {
                 "class": "NitishKaila\\WPVIPPreCommitHook\\Plugin"
             },
@@ -153,10 +153,10 @@
             "authors": [
                 {
                     "name": "Nitish Kaila",
-                    "email": "nitish.kaila@multidots.com"
+                    "email": "kailanitish90@gmail.com"
                 }
             ],
-            "description": "Pre-commit hook for WordPress projects",
+            "description": "Pre-commit hook for WordPress projects to run WordPress VIP Minimum coding standard",
             "transport-options": {
                 "symlink": true
             }
