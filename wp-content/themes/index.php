@@ -3,4 +3,4 @@
 
 $attr = "abd";
 $remote = wp_remote_get("https://www.google.co.in");
-?>
+

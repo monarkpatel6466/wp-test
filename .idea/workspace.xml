@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1c2bef-e406-4748-8972-459a0f0a68f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/wp-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wp-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpcs.ruleset.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpcs.ruleset.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/multipurpose-block/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -198,12 +192,12 @@
       <workItem from="1555478243488" duration="8909000" />
       <workItem from="1555500779496" duration="11000" />
       <workItem from="1555501451441" duration="4118000" />
-      <workItem from="1555565343473" duration="5155000" />
+      <workItem from="1555565343473" duration="5316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29810000" />
+    <option name="totallyTimeSpent" value="29971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1004" extended-state="6" />
@@ -332,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
