@@ -50,7 +50,6 @@ get_header();
 		</main><!-- #main -->
 	</section><!-- #primary -->
     <a class="<?php echo get_the_ID(); ?>">abcdf</a>
-    <a class="<?php echo get_the_ID(); ?>">abcdf</a>
 
 <?php
 get_footer();
