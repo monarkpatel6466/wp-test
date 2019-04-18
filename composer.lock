@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f9fc4219994f59eb79cd535dd541af22",
+    "content-hash": "e8845eadfbbe00198b629b63c5792a99",
     "packages": [
         {
             "name": "automattic/vipwpcs",
