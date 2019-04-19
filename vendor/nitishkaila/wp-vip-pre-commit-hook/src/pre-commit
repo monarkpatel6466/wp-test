@@ -33,7 +33,7 @@ elif [ -f "$PROJECT/phpcs.xml.dist" ]
 then
     RULESET="$PROJECT/phpcs.xml.dist"
 else
-    RULESET="WordPressVIPMinimum"
+    RULESET="WordPress"
 fi
 
 echo "Checking Code Standard Compliance, using $RULESET as ruleset standard..."
