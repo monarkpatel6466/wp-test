@@ -6,33 +6,9 @@ namespace Composer\Autoload;
 
 class ComposerStaticInitaca6bc2f3a852183736e0d9e89f37043
 {
-    public static $prefixLengthsPsr4 = array (
-        'N' => 
-        array (
-            'NitishKaila\\WPVIPPreCommitHook\\' => 31,
-        ),
-        'D' => 
-        array (
-            'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 55,
-        ),
-    );
-
-    public static $prefixDirsPsr4 = array (
-        'NitishKaila\\WPVIPPreCommitHook\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/nitishkaila/wp-vip-pre-commit-hook/src',
-        ),
-        'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/dealerdirect/phpcodesniffer-composer-installer/src',
-        ),
-    );
-
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitaca6bc2f3a852183736e0d9e89f37043::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitaca6bc2f3a852183736e0d9e89f37043::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }
