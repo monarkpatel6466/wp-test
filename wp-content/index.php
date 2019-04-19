@@ -4,3 +4,4 @@
 $a = "adfsf";
 ?>
 <a class="<?php echo $a; ?>">abc</a>
+<a class="<?php echo $a; ?>">abc</a>
