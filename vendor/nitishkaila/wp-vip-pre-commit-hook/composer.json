@@ -14,7 +14,7 @@
         "automattic/vipwpcs": "*",
         "dealerdirect/phpcodesniffer-composer-installer": "*",
         "phpcompatibility/phpcompatibility-wp": "*",
-        "composer-plugin-api": "^1.0"
+        "composer-script-api": "^1.0"
     },
     "autoload": {
         "psr-4": {
