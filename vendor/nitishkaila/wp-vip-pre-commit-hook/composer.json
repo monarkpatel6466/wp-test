@@ -13,8 +13,7 @@
         "wp-coding-standards/wpcs": "1.*",
         "automattic/vipwpcs": "*",
         "dealerdirect/phpcodesniffer-composer-installer": "*",
-        "phpcompatibility/phpcompatibility-wp": "*",
-        "composer-plugin-api": "^1.0"
+        "phpcompatibility/phpcompatibility-wp": "*"
     },
     "autoload": {
         "psr-4": {
