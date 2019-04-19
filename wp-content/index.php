@@ -1,2 +1,6 @@
 <?php
 // Silence is golden.
+
+$a = "adfsf";
+?>
+<a class="<?php echo $a; ?>">abc</a>

@@ -1,0 +1,32 @@
+{
+    "name": "nitishkaila/wp-vip-pre-commit-hook",
+    "description": "Pre-commit hook for WordPress projects to run WordPress VIP Minimum coding standard",
+    "type": "composer-script",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Nitish Kaila",
+            "email": "kailanitish90@gmail.com"
+        }
+    ],
+    "require": {
+        "wp-coding-standards/wpcs": "1.*",
+        "automattic/vipwpcs": "*",
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "composer-plugin-api": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NitishKaila\\WPVIPPreCommitHook\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "NitishKaila\\WPVIPPreCommitHook\\Plugin"
+    },
+    "scripts": {
+        "install-pre-commit-hook": [
+            "NitishKaila\\WPVIPPreCommitHook\\Plugin::run"
+        ]
+    }
+}
