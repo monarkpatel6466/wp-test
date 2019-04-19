@@ -1,3 +1,4 @@
 .idea/
 vendor/
-package.json
+composer.json
+composer.lock
