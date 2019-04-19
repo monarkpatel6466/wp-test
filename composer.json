@@ -1,6 +1,5 @@
 {
     "require": {
-        "nitishkaila/wp-vip-pre-commit-hook": "^1.0"
     },
     "require-dev": {
     }
